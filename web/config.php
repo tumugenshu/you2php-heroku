@@ -7,4 +7,6 @@ define('SITE_NAME', 'yangwenwechat84.in');
 define('TITLENAME', 'Hello wechat!');
 define('EN2DEKEY', 'AIzaSyBmYQPhWRuVcFG8XNO');
 define('EMAIL', 'wengenyoung@gmail.com');
+define('NAME', 'wengenyoung');
+define('PASSWORD', 'wengenyoung');
 ?>
